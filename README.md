@@ -1,4 +1,0 @@
-# NeGeShoCa-NEXT-GENERATION-SHOPPING-CART-POWERED-BY-ARDUINO-TECHNOLOGY-
-Negeshoca is our capstone project designed to create a smooth and user-friendly self-checkout system built directly into a shopping cart. It features a GM67 barcode scanner, an ESP32 microcontroller, a tablet device as the user interface, and a thermal printer— all integrated into the cart itself.
-
-Negeshoca is a self-checkout system integrated into a shopping cart, featuring a GM67 barcode scanner, ESP32, tablet UI, and thermal printer. Customers scan items and see their list in real time on the tablet. After checkout, a QR code with transaction details is generated for the cashier to scan, speeding up payment. Once the cashier completes the transaction, a receipt is printed directly from the shopping cart. The system uses C++, Kotlin, and Java, with Firebase Realtime Database for real-time data syncing.
